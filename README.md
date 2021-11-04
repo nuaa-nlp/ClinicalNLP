@@ -12,5 +12,5 @@ Papers, Datasets, Codes about Clinical NLP
 1. **Tips and Tactics for Medical Deep Learning Challenges** [[link](https://medium.com/@GorkemPolat/tips-and-tactics-for-medical-deep-learning-challenges-99c40e94d709)]
 
 ### Dataset
-- **[OpenI]**(https://openi.nlm.nih.gov/)
-- **[MIMIC]**(https://physionet.org/content/mimiciii-demo/1.4/)
+- [OpenI(https://openi.nlm.nih.gov/)]
+- [MIMIC(https://physionet.org/content/mimiciii-demo/1.4/)]
