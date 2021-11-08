@@ -7,6 +7,9 @@ Papers, Datasets, Codes about Clinical NLP
 3. **TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays**. *Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Ronald M. Summers*. IEEE CVPR 2018. [[PDF](https://arxiv.org/abs/1801.04334#)]
 4. **Automated Generation of Accurate & Fluent Medical X-ray Reports**. *Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2108.12126)]
 5. **Learning to Generate Clinically Coherent Chest X-Ray Reports**. *Justin Lovelace, Bobak Mortazavi*. ACL 2020. [[PDF](https://aclanthology.org/2020.findings-emnlp.110/)]
+6. **Effective Convolutional Attention Network for Multi-label Clinical Document Classification**. *Yang Liu, Hua Cheng, Russell Klopfer, Matthew R. Gormley and Thomas Schaaf*. EMNLP 2021. [[PDF](http://www.cs.cmu.edu/~mgormley/papers/liu+al.emnlp.2021.pdf)]
+7. **Classification of hierarchical text using geometric deep learning: the case of clinical trials corpus**. *Sohrab Ferdowsi, Nikolay Borissov, Julien Knafou, Poorya Amini and Douglas Teodoro*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2110.15710)]
+8. **Incorporating medical knowledge in BERT for clinical relation extraction**. *Arpita Roy and Shimei Pan*. EMNLP 2021. [[PDF]()]
 
 ### Contest
 1. **Tips and Tactics for Medical Deep Learning Challenges** [[link](https://medium.com/@GorkemPolat/tips-and-tactics-for-medical-deep-learning-challenges-99c40e94d709)]
