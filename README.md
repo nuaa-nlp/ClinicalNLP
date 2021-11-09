@@ -9,7 +9,8 @@ Papers, Datasets, Codes about Clinical NLP
 5. **Learning to Generate Clinically Coherent Chest X-Ray Reports**. *Justin Lovelace, Bobak Mortazavi*. ACL 2020. [[PDF](https://aclanthology.org/2020.findings-emnlp.110/)]
 6. **Effective Convolutional Attention Network for Multi-label Clinical Document Classification**. *Yang Liu, Hua Cheng, Russell Klopfer, Matthew R. Gormley and Thomas Schaaf*. EMNLP 2021. [[PDF](http://www.cs.cmu.edu/~mgormley/papers/liu+al.emnlp.2021.pdf)]
 7. **Classification of hierarchical text using geometric deep learning: the case of clinical trials corpus**. *Sohrab Ferdowsi, Nikolay Borissov, Julien Knafou, Poorya Amini and Douglas Teodoro*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2110.15710)]
-8. **Incorporating medical knowledge in BERT for clinical relation extraction**. *Arpita Roy and Shimei Pan*. EMNLP 2021. [[PDF]()]
+8. **Incorporating medical knowledge in BERT for clinical relation extraction**. *Arpita Roy and Shimei Pan*. EMNLP 2021. [[PDF](https://aclanthology.org/2021.emnlp-main.435/)]
+9. **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation**. *Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun*. 2021.[[PDF](https://arxiv.org/abs/2111.04318)]
 
 ### Contest
 1. **Tips and Tactics for Medical Deep Learning Challenges** [[link](https://medium.com/@GorkemPolat/tips-and-tactics-for-medical-deep-learning-challenges-99c40e94d709)]
