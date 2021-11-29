@@ -11,6 +11,8 @@ Papers, Datasets, Codes about Clinical NLP
 7. **Classification of hierarchical text using geometric deep learning: the case of clinical trials corpus**. *Sohrab Ferdowsi, Nikolay Borissov, Julien Knafou, Poorya Amini and Douglas Teodoro*. EMNLP 2021. [[PDF](https://arxiv.org/abs/2110.15710)]
 8. **Incorporating medical knowledge in BERT for clinical relation extraction**. *Arpita Roy and Shimei Pan*. EMNLP 2021. [[PDF](https://aclanthology.org/2021.emnlp-main.435/)]
 9. **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation**. *Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun*. 2021.[[PDF](https://arxiv.org/abs/2111.04318)]
+10. **Reinforced Medical Report Generation with X-Linear Attention and Repetition Penalty**. *Wenting Xu, Chang Qi, Zhenghua Xu, Thomas Lukasiewicz*. CS.CL 2020. [[PDF](https://arxiv.org/abs/2011.07680)]
+
 
 ### Contest
 1. **Tips and Tactics for Medical Deep Learning Challenges** [[link](https://medium.com/@GorkemPolat/tips-and-tactics-for-medical-deep-learning-challenges-99c40e94d709)]
